@@ -4249,6 +4249,11 @@
   "resolved" "https://registry.npmjs.org/lines-and-columns/-/lines-and-columns-1.2.4.tgz"
   "version" "1.2.4"
 
+"link@^1.5.0":
+  "integrity" "sha512-+xsWpo98a99oAsrVGQlkFqQE+t/Qs6G+QJP1hzUdjWk6nuYG//E2u3YH8pYd3VG8CNpUoKXgVgk2HeQvPRsrFA=="
+  "resolved" "https://registry.npmjs.org/link/-/link-1.5.0.tgz"
+  "version" "1.5.0"
+
 "locate-path@^3.0.0":
   "integrity" "sha512-7AO748wWnIhNqAuaty2ZWHkQHRSNfPVIsPIfwEOWO22AmaoVrWavlOcMR5nzTLNYvp36X220/maaRsrec1G65A=="
   "resolved" "https://registry.npmjs.org/locate-path/-/locate-path-3.0.0.tgz"
@@ -5433,6 +5438,11 @@
   "resolved" "https://registry.npmjs.org/react-native-shake/-/react-native-shake-5.1.1.tgz"
   "version" "5.1.1"
 
+"react-native-torch@^1.2.0":
+  "integrity" "sha512-xyk6DC/JL/P8ozGZt+qXvfzK3QugxJjjPWZRUZ7xIfhbHxX44Kw0Afc9gxk9LhVKrAKfwtjGUJgcx9/4FNMGvA=="
+  "resolved" "https://registry.npmjs.org/react-native-torch/-/react-native-torch-1.2.0.tgz"
+  "version" "1.2.0"
+
 "react-native-touch@^0.0.2":
   "integrity" "sha512-TNgYSotEumPEp5LLUwq8O+xbPtqAZDzlPlrIggWR7Cd/K9NMNel6/ksBvRT+kwv7P0t6aRZBesAwC/hEB/SdWA=="
   "resolved" "https://registry.npmjs.org/react-native-touch/-/react-native-touch-0.0.2.tgz"
@@ -5451,7 +5461,7 @@
     "normalize-css-color" "^1.0.2"
     "prop-types" "^15.6.0"
 
-"react-native@*", "react-native@0.68.2":
+"react-native@*", "react-native@^0.68.2":
   "integrity" "sha512-qNMz+mdIirCEmlrhapAtAG+SWVx6MAiSfCbFNhfHqiqu1xw1OKXdzIrjaBEPihRC2pcORCoCHduHGQe/Pz9Yuw=="
   "resolved" "https://registry.npmjs.org/react-native/-/react-native-0.68.2.tgz"
   "version" "0.68.2"
